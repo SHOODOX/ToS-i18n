@@ -6305,7 +6305,7 @@ QUEST_LV_0400_20210115_006334	I ask for my sister's rest.	제 자매의 안식�
 QUEST_LV_0400_20210115_006335	Oh!	이런!	랑다 마스터
 QUEST_LV_0400_20210115_006336	We have to stop the power of the chaos!{nl}Mulia is suffering.	저 혼돈의 힘을 멈춰야 합니다!{nl}뮬리아가 고통을 호소하고있어요.	랑다 마스터
 QUEST_LV_0400_20210115_006337	With that much power, it will be late even we escape!	저 정도의 힘이라면 도망쳐도 늦을 겁니다!	랑다 마스터
-QUEST_LV_0400_20210115_006338	Fate..	숙명..	뮬리아
+QUEST_LV_0400_20210115_006338	Fate..	숙명..	소녀의 환영
 QUEST_LV_0400_20210115_006339	Please give my sister a rest..	제 자매에게 부디 안식을..	여신 라이마
 QUEST_LV_0400_20210115_006340	Inevitable Fate	피할 수 없는 운명	
 QUEST_LV_0400_20210115_006341	Ask about the Ritual	의식에 관해 묻는다	
@@ -6504,3 +6504,4 @@ QUEST_LV_0400_20210809_006533	It's dangerous here, so be careful.	여기는 위�
 QUEST_LV_0400_20210809_006534	Owynia Dilben believes that the Magic Research Facility is inhabited by monsters that possess powerful mana.{nl}Owynia wants you to defeat any monsters of powerful mana you may find inside the Magic Research Facility.	오위니아 딜벤은 마법 실험 구역 안에 강력한 마나를 가진 몬스터 또한 존재할 것으로 보고 있습니다. {nl}오위니아 딜벤은 본인을 대신해 마법 실험 구역의 조사와 함께 강력한 마나를 가진 몬스터를 발견하게 되면 처치해 달라고 합니다.	QUEST_LV_0400_20181017_004653	奧維尼亞狄爾班認為魔法實驗區域內存在危險的怪物，特別是存在擁有強大魔力的怪物存在。{nl}代替奧維尼亞狄爾班，一同進行魔法實驗區域的調查，如果發現擁有強大魔力的怪物，請求幫忙消滅。	오위니아 딜벤은 마법 실험 구역 안에 위험한 몬스터가 다수 존재하며 특히나 강력한 마나를 가진 몬스터 또한 존재할 것으로 보고 있습니다. {nl}오위니아 딜벤은 본인을 대신해 마법 실험 구역의 조사와 함께 강력한 마나를 가진 몬스터를 발견하게 되면 처치해 달라고 합니다.	
 QUEST_LV_0400_20210809_006535	Talk to Audrone at Freenel Memorial	프리넬 기념구의 아우드로네와 대화하기	QUEST_LV_0400_20181017_004655	和尼柯波爾利斯居民對話	니코폴리스 주민과 대화	
 QUEST_LV_0400_20210809_006536	Talk to Audrone at Freenel Memorial.	프리넬 기념구의 아우드로네와 대화하세요.	QUEST_LV_0400_20181017_004656	和尼柯波爾利斯居民對話	니코폴리스 주민과 대화하세요.	
+QUEST_LV_0400_20220204_006537	Princess Kaonilla must have a lot on her mind.{nl}People you trusted actually turned out to be demons...	카오닐라 공주님도 고민이 많으시겠죠.{nl}믿었던 사람들이 사실은 마족이라면..	QUEST_LV_0400_20180827_003131	竟然有人來到尼柯波爾利斯，真是稀奇啊。{nl}{nl}你問我為何有這樣的反應？	니코폴리스에 사람이 오다니 별일이네요.{nl}{nl}왜 반응이 그러냐고요?	오위니아 딜벤
