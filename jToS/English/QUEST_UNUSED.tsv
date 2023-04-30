@@ -1,4 +1,4 @@
-QUEST_UNUSED_20150317_000001	A ha, you're on your way to see Master Pardoner. I wish you luck.	아하, 파드너 마스터에게로 가는 길이로군. 무운을 빕지요.	
+﻿QUEST_UNUSED_20150317_000001	A ha, you're on your way to see Master Pardoner. I wish you luck.	아하, 파드너 마스터에게로 가는 길이로군. 무운을 빕지요.	
 QUEST_UNUSED_20150317_000002	Note the long way Hashipusho.	먼 길 조심하십쇼.	
 QUEST_UNUSED_20150317_000003	So. Korezo. Pardoner does not allow you to introductory. Sound fall that silver was Like this donation was bought {nl} indulgences leads to our salvation. {nl} wealth also, that it be noted that it is a great blessing of goddess.	그래. 이거야. 파드너로 입문을 허락하지.{nl}면죄부를 산 은화 한 닢이 헌금함에 떨어지는 소리가 우릴 구원으로 이끌지.{nl}재물 또한 여신의 커다란 축복이라는 것을 명심하게.	
 QUEST_UNUSED_20150317_000004	Pardoner be viewed back to your master Te. {nl} if had the fire pot looking for a very long time.	어서 파드너 마스터께 돌아가 보게.{nl}그 불항아리를 아주 오랫동안 찾고 계셨거든.	
@@ -93,7 +93,7 @@ QUEST_UNUSED_20150317_000092	I wait for the owl image	부엉이 조각상의 기
 QUEST_UNUSED_20150317_000093	The Silent Forest (1)	고요의 숲(1)	
 QUEST_UNUSED_20150317_000094	I'll get rid of the Black Zigri	검은 지그리를 처치하겠다고 제안한다	
 QUEST_UNUSED_20150317_000095	The Silent Forest (2)	고요의 숲(2)	
-QUEST_UNUSED_20150317_000096	Notice/영혼의 유골함을 약한부엉이 조각상에게 전달했습니다.	
+QUEST_UNUSED_20150317_000096	I'll have a look in other places.	
 QUEST_UNUSED_20150317_000097	The Silent Forest (3)	고요의 숲(3)	
 QUEST_UNUSED_20150317_000098	We propose is to confirm the barrier	관문을 확인하겠다고 제안한다	
 QUEST_UNUSED_20150317_000099	The Silent Forest (4)	고요의 숲(4)	
@@ -129,7 +129,7 @@ QUEST_UNUSED_20150317_000128	I'll get rid of the Dark Slime	다크 슬라임을 
 QUEST_UNUSED_20150317_000129	The Wandering Soul (3)	헤매는 영혼(3)	
 QUEST_UNUSED_20150317_000130	Attack of Biteregina	비테레지나의 습격	
 QUEST_UNUSED_20150317_000131	Attack of Werewolf	웨어울프의 습격	
-QUEST_UNUSED_20150317_000132	Notice/!/웨어울프를 처치하세요!	
+QUEST_UNUSED_20150317_000132	I'll have a look in other places.	
 QUEST_UNUSED_20150317_000133	Ma was occupied the tower of wizard monarch	마법사의 탑을 점령한 마군주	
 QUEST_UNUSED_20150317_000134	Grace of Wealth [Pardoner Advancement] (4)	재물에도 은혜를[파드너 전직](4)	
 QUEST_UNUSED_20150317_000135	Behind closed doors of secret	밀실의 비밀	
@@ -243,13 +243,13 @@ QUEST_UNUSED_20150714_000242	If you face it, I hope you are with other people.	�
 QUEST_UNUSED_20150714_000243	I didn't expect that you would defeat it..{nl}You are much stronger than I expected. I am surprised.{nl}If I am with you, regaining the control of the monastery won't be that hard.	그 녀석을 쓰러뜨리실 줄이야...{nl}계시자님은 제 생각 이상으로 강력한 분이시로군요. 감탄했습니다.{nl}계시자님과 함께라면 수도원 수복도 손쉬운 일이 아닐까 싶군요.	수도사 제프리
 QUEST_UNUSED_20150714_000244	Placing handouts	유인물 배치 중	
 QUEST_UNUSED_20150714_000245	Lighting up	불 붙이는 중	
-QUEST_UNUSED_20150714_000246	Notice/영혼의 유골함을 약한 부엉이 조각상에게 전달했습니다	QUEST_UNUSED_20150317_000096	Notice/영혼의 유골함을 약한부엉이 조각상에게 전달했습니다.	
+QUEST_UNUSED_20150714_000246	I'll have a look in other places.	QUEST_UNUSED_20150317_000096	I'll have a look in other places.	
 QUEST_UNUSED_20150714_000247	Setting up the key	열쇠 설치 중	
 QUEST_UNUSED_20150714_000248	Putting the bait	미끼를 놓는 중	
 QUEST_UNUSED_20150714_000249	Using the herbicide	제초제 사용 중	
 QUEST_UNUSED_20150714_000250	Notice/보급품 상자를 파괴하고 도망간 부베를 추적하세요!#10	QUEST_LV_0200_20150317_001781	Notice/補給品箱を破壊して逃げたゴブリンを追跡してください！#10	Notice/보급품 상자를 파괴하고 도망간 부베를 추적하십시오!#10	
 QUEST_UNUSED_20150714_000251	Notice/도망간 부베족을 추적하세요!#8	QUEST_LV_0200_20150317_001784	Notice/逃げたゴブリン族を追跡しよう！#8	Notice/도망간 부베족을 추적하자!#8	
-QUEST_UNUSED_20150714_000252	Notice/다음 지역으로 이동하세요#5	
+QUEST_UNUSED_20150714_000252	I'll have a look in other places.	
 QUEST_UNUSED_20150714_000253	Notice/!/길을 막고있는 레푸스를 처치하세요!#8	QUEST_LV_0100_20150317_003522	Notice/!/道を塞いでいるレプス退治！#8	Notice/!/길을 막고있는 레푸스 처치!#8	
 QUEST_UNUSED_20150714_000254	Notice/길을 막고있는 레푸스를 처치했습니다!#8	QUEST_LV_0100_20150317_003523	Notice/道を塞いでいるレプス退治完了！#8	Notice/길을 막고있는 레푸스 처치 완료!#8	
 QUEST_UNUSED_20150714_000255	Burning	태우는 중	
@@ -289,7 +289,7 @@ QUEST_UNUSED_20150717_000288	Avoid the Petrifying Frost and defeat the monsters	
 QUEST_UNUSED_20150717_000289	Upon opening the chest, fainted Petrifying Frost appeared and nearby monsters started to attack! Avoid the frost and defeat all the monsters.	상자를 열자 미약한 석화서리가 나오면서 주변에서 몬스터들까지 달려 듭니다! 석화서리를 피해서 몬스터들을 모두 처치하세요.	
 QUEST_UNUSED_20150717_000290	Talk to Wilhelmina Carriot	빌헬미나 캐리어트와 대화하세요	
 QUEST_UNUSED_20150717_000291	Obtain Ruklys' Army Seals and Parchments	루클리스의 부대 인장, 양피지 문서 구하기	
-QUEST_UNUSED_20150717_000292	대지의 요새에서 정보가 될 만한 물건들을 구하세요.	
+QUEST_UNUSED_20150717_000292	I'll have a look in other places.	
 QUEST_UNUSED_20150729_000293	Kupole Meile	큐폴 메일레
 QUEST_UNUSED_20150729_000294	Kupole Meile	큐폴 메일레
 QUEST_UNUSED_20150729_000295	Kupole Meile	큐폴 메일레
@@ -303,17 +303,17 @@ QUEST_UNUSED_20150729_000302	Kupole Meile	큐폴 메일레
 QUEST_UNUSED_20150729_000303	연안 요새 지역의 석화 탐지기가 고장났다구요?{nl}그건 이미 알고 있습니다. 그럴만도 합니다.	왕국군 레티아
 QUEST_UNUSED_20150729_000304	그런데 아직 도착하지 않았나요? 제가 지원병력을 그 쪽에 파견했는데요.{nl}고장난 탐지기를 수리하러 보낸 지가 좀 됐는데.. 어찌 된 일일까요..	왕국군 레티아
 QUEST_UNUSED_20150729_000305	{nl}한 번, 그들을 찾아 봐 주시겠습니까?	왕국군 레티아
-QUEST_UNUSED_20150729_000306	하지만 어쨌든 아직 소식이 없는 것을 보면.. 어떤 변을 당했을 수도 있겠습니다.{nl}혹시 그들의 시신들이라도 발견한다면.. 번거롭더라도 시신을 뒤져봐 주시겠습니까?{nl}쓸 만한 부품들이 나올 겁니다. 아니면 그 주변의 몬스터들이라도..	
+QUEST_UNUSED_20150729_000306	I'll have a look in other places.	
 QUEST_UNUSED_20150729_000307	연안요새의 입구 쪽에 석화서리가 자주 보고되고 있으니, 그쪽에서 몬스터의 습격을 받았거나 석화서리에 당했는지도 모르지요.	왕국군 레티아
-QUEST_UNUSED_20150729_000308	지원 병력이 모두 당했군요.. 안타깝네요.. {nl}나중에 그들의 영혼도 인도해 주어야겠어요.	
+QUEST_UNUSED_20150729_000308	I'll have a look in other places.	
 QUEST_UNUSED_20150729_000309	Okay. Anyways, please take those parts and fix the broken detector.{nl}We should do it, but please understand that we can't leave here.	네. 어쨌든 그 부품들을 들고 가서 고장난 탐지기들을 수리 해 주세요.{nl}저희가 할 일입니다만, 자리를 비울 수 없는 것을 이해해 주십시오.	왕국군 레티아
-QUEST_UNUSED_20150729_000310	그것이 그 부품들이군요.{nl}이제 수리하러 가셔야겠네요.{nl}석화 서리를 조심하세요.	
+QUEST_UNUSED_20150729_000310	I'll have a look in other places.	
 QUEST_UNUSED_20150729_000311	Kupole Meile	큐폴 메일레
 QUEST_UNUSED_20150729_000312	Kupole Meile	큐폴 메일레
 QUEST_UNUSED_20150729_000313	Kupole Meile	큐폴 메일레
 QUEST_UNUSED_20150729_000314	Kupole Meile	큐폴 메일레
 QUEST_UNUSED_20150729_000315	Svitrigaila	쉬트리가일라
-QUEST_UNUSED_20150729_000316	사제 유타	
+QUEST_UNUSED_20150729_000316	I'll have a look in other places.	
 QUEST_UNUSED_20150729_000317	Priest Juta	사제 유타
 QUEST_UNUSED_20150729_000318	Priest Juta	사제 유타
 QUEST_UNUSED_20150729_000319	Priest Juta	사제 유타
@@ -345,8 +345,8 @@ QUEST_UNUSED_20150729_000344	The Legwyn Family's Tragedy (2)	르귄가의 비극
 QUEST_UNUSED_20150729_000345	The Legwyn Family's Tragedy (3)	르귄가의 비극(3)	
 QUEST_UNUSED_20150729_000346	Progress	진행	
 QUEST_UNUSED_20150730_000347	수리 중/HAMMERING/5/TRACK_AFTER/None	QUEST_LV_0300_20150717_000020	修理中/MAKING/3/TRACK_AFTER/None	수리 중/MAKING/3/TRACK_AFTER/None	
-QUEST_UNUSED_20150730_000348	Notice/탐지기가 작동하기 시작합니다!#5	
-QUEST_UNUSED_20150730_000349	수리 중/HAMMERING/3/TRACK_BEFORE/None	
+QUEST_UNUSED_20150730_000348	I'll have a look in other places.	
+QUEST_UNUSED_20150730_000349	I'll have a look in other places.	
 QUEST_UNUSED_20150803_000350	Talk with Member Irmantas	단원 이르만타스와 대화	
 QUEST_UNUSED_20150803_000351	Go meet Member Grazina	단원 그라지나와 찾기	
 QUEST_UNUSED_20150803_000352	You can hear someone calling somebody	주변에서 누군가 부르는 소리가 들립니다.	
@@ -357,8 +357,8 @@ QUEST_UNUSED_20150803_000356	Talk with Member Alina	단원 알리나와 대화
 QUEST_UNUSED_20150803_000357	단원 알린와 대화	ETC_20150317_001874	開始	시작	
 QUEST_UNUSED_20150804_000358	To get near the Royal Mausoleum, you should pass all the ordeals of the Great King Zachariel. {nl}To get the next token for the next ordeal, talk with Historian Rexipher.	왕릉에 접근하기 위해서는 자카리엘 대왕의 모든 시련을 통과해야합니다. 다음 시련에 대한 증표를 얻기 위해 사학자 렉시퍼와 대화해 봅시다.	QUEST_LV_0100_20150317_005238	王陵に接近するにはジャカリエル大王の全ての難題を解かなければなりません。次の難題に関する手がかりを手に入れるため、史学者レキシファーと話してみましょう。	왕릉에 접근하기 위해서는 자카리엘 대왕의 모든 난제를 풀어야 합니다. 다음 난제에 대한 단서를 얻기 위해 사학자 렉시퍼와 대화해 봅시다.	
 QUEST_UNUSED_20150811_000359	There are nests of monsters at the right side of this four way.{nl}There may be some of our colleagues who are still alive.	이 사거리의 오른쪽에 몬스터들의 둥지가 있어요. {nl}배가 불러 먹어치우지 못한 동료들이 아직 남아 있을지도 몰라요.	QUEST_LV_0200_20150317_000850	この十字路の端にモンスターたちの巣があります。{nl}お腹がいっぱいになってまだ食べられていない仲間がまだ残っているかもしれません。{nl}{nl}	이 사거리의 끝에 몬스터들의 둥지가 있어요. {nl}배가 불러 먹어치우지 못한 동료들이 아직 남아 있을지도 몰라요.{nl}{nl}	약해진 부엉이 조각상
-QUEST_UNUSED_20150811_000360	Notice/!/길을 막고있는 몬스터를 처치하세요!#8	
-QUEST_UNUSED_20150811_000361	Notice/길을 막고있는 몬스터를 모두 처치했습니다!#8	
+QUEST_UNUSED_20150811_000360	I'll have a look in other places.	
+QUEST_UNUSED_20150811_000361	I'll have a look in other places.	
 QUEST_UNUSED_20150904_000362	Did the Archer Master send you here?{nl}Klaipeda is becoming stable, but Fedimian is still like this.	아처 마스터가 보내서 왔나.{nl}클라페다는 점점 안정을 찾아가고 있지만 페디미안은 아직 이 모양이다.	QUEST_JOBSTEP_20150317_000205	アーチャーマスターから送られてきたのか。{nl}クラペダは徐々に平和を取り戻しつつあるが、フェディミアンはまだこの有り様だ。	아처 마스터가 보내서 왔나.{nl}클라페다는 점점 안정을 찾아가고 있지만 페디미안은 아직 이 모양일세.	로델레로 마스터
 QUEST_UNUSED_20150904_000363	I want you to get rid of the boss monsters at Mage Tower.{nl}We don't have enough workforce to reconstruct Fedimian and the monsters are also coming out from the tower.	자네에겐 마법사의 탑에서 대장급 몬스터를 맡기지.{nl}페디미안을 재건하는 것도 일손이 부족한데 탑에서 몬스터까지 쏟아져 나오고 있거든.	QUEST_JOBSTEP_20150317_000207	君は魔術師の塔で隊長級モンスターを倒してくれ。{nl}フェディミアンの再建にも人手が足りないのに塔からモンスターまで溢れ出てきているんだ。	자네는 마법사의 탑에서 대장급 몬스터를 쓰러뜨려 주게.{nl}페디미안을 재건하는 것도 일손이 부족한데 탑에서 몬스터까지 쏟아져 나오고 있거든.	로델레로 마스터
 QUEST_UNUSED_20150904_000364	According to the report of the scout who succeeded in infiltrating into the tower, it was Minotaurus at the 3rd floor of Mage Tower.{nl}If we could defeat that monster, it will be an enough warning.	잠입에 성공한 정찰병의 보고로는 마법사의 탑 3층의 미노타우로스라고 했어.{nl}그 몬스터를 처치하면 충분한 경고가 되겠지.	QUEST_JOBSTEP_20150317_000208	潜入に成功した偵察兵によると、魔術師の塔3階のミノタウロスが隊長らしい。{nl}そのモンスターを倒せば十分な警告となるだろう。	잠입에 성공한 정찰병의 보고로는 마법사의 탑 3층의 미노타우로스라고 했네.{nl}그 몬스터를 처치하면 충분한 경고가 되겠지.	로델레로 마스터
@@ -778,7 +778,7 @@ QUEST_UNUSED_20151014_000777	Report to Jurate	유라테에게 보고
 QUEST_UNUSED_20151014_000778	It seems that you've found a sacred object. Take it to Jurate.	성물을 찾은 것 같습니다. 유라테에게 가져다 주세요.	
 QUEST_UNUSED_20151014_000779	Wilhelmina Carriot is looking at what you have closely. Talk with Wilhelmina Carriot.	빌헬미나 캐리어트가 당신이 가지고 있는 것을 뚫어지게 쳐다보고 있습니다. 빌헬미나 캐리어트와 대화해 보세요.	QUEST_UNUSED_20150717_000290	Talk to Wilhelmina Carriot	빌헬미나 캐리어트와 대화하세요	
 QUEST_UNUSED_20151014_000780	Obtain Ruklys' Army Seals and Parchments	루클리스의 부대 인장과 양피지 문서 수집	QUEST_UNUSED_20150717_000291	Obtain Ruklys' Army Seals and Parchments	루클리스의 부대 인장, 양피지 문서 구하기	
-QUEST_UNUSED_20151014_000781	Wilhelmina Carriot wants more documents. Obtain some things that can be used as information from the Fortress of the Land.	빌헬미나 캐리어트는 좀 더 많은 자료들을 원하고 있습니다. 대지의 요새에서 정보가 될 만한 것들을 구하세요.	QUEST_UNUSED_20150717_000292	대지의 요새에서 정보가 될 만한 물건들을 구하세요.	
+QUEST_UNUSED_20151014_000781	Wilhelmina Carriot wants more documents. Obtain some things that can be used as information from the Fortress of the Land.	빌헬미나 캐리어트는 좀 더 많은 자료들을 원하고 있습니다. 대지의 요새에서 정보가 될 만한 것들을 구하세요.	QUEST_UNUSED_20150717_000292	I'll have a look in other places.	
 QUEST_UNUSED_20151014_000782	Hand them over to Wilhelmina Carriot	빌헬미나 캐리어트에게 전달	
 QUEST_UNUSED_20151014_000783	Wilhelmina Carriot will be satisfied with this. Hand them over to Wilhelmina Carriot.	이 정도면 빌헬미나 캐리어트가 만족할 것 같습니다. 빌헬미나 캐리어트에게 전해주세요.	QUEST_UNUSED_20150717_000290	Talk to Wilhelmina Carriot	빌헬미나 캐리어트와 대화하세요	
 QUEST_UNUSED_20151014_000784	The books from the Ruklys Era are scattered around. Look for the books that are readable.	루클리스 시대에 남겨진 책들이 흩어져 있습니다. 읽을 수 있을 만한 책을 찾아보세요.	
@@ -1968,7 +1968,7 @@ QUEST_UNUSED_20151028_001964	Obtain %s from Sparnasman	스파나스맨에게서 
 QUEST_UNUSED_20151028_001965	Talk with the spirit of Sadhu Master at Orsha	오르샤에서 사두 마스터의 유체와 대화하세요.	
 QUEST_UNUSED_20151028_001966	Defeat the monster that is bound to the energy of Sadhu Master at Feretory Hills	페레토리 구릉에서 사두 마스터의 기운과 묶인 몬스터 처치	
 QUEST_UNUSED_20151028_001967	By using the energy obtained from Sadhu Master, you have to combine some parts of monsters at Feretory Hills. Absorb the spirit by defeating the monster that was combined to the energy.	사두 마스터에게 받은 기운을 사용해 페레토리 구릉 몬스터의 영혼 일부를 합쳐야 합니다. 기운에 합쳐진 몬스터를 처치해 영혼을 흡수하세요.	
-QUEST_UNUSED_20151028_001968	사두 마스터가 제시한 수만큼 몬스터의 영혼을 모았습니다. 오르샤에 있는 그녀의 유체에게 돌아가 보고하세요.	
+QUEST_UNUSED_20151028_001968	I'll have a look in other places.	
 QUEST_UNUSED_20151028_001969	Paladin Submaster	팔라딘 서브 마스터와 대화	
 QUEST_UNUSED_20151028_001970	Talk with Paladin Submaster at Orsha.	오르샤에서 팔라딘 서브 마스터와 대화하세요.	
 QUEST_UNUSED_20151028_001971	Defeat monsters at Feretory Hills to show the power of Paladin Submaster	팔라딘 서브 마스터에게 힘을 과시하기 위해 페레토리 구릉의 몬스터를 처치하세요.	
@@ -2104,7 +2104,7 @@ QUEST_UNUSED_20151112_002100	It hurts a lot on the wound areas and I have hard t
 QUEST_UNUSED_20151112_002101	It is the deadly poison. We don't have enough time. I will give you the medicine so please give to the patient fast.	치명적인 독입니다. 일분 일초가 급합니다. 제가 약을 드릴테니 빨리 환자에게 가 약을 먹이세요.	클레릭 서브 마스터
 QUEST_UNUSED_20151112_002102	Due to the medicine, I have less pain and I can breathe well.{nl}Thank you.	약 덕분에 고통이 덜하고 숨쉬기가 한결 편해졌습니다.{nl}감사합니다.	약초꾼 테일스
 QUEST_UNUSED_20151112_002103	Let's check what happened at the village to find out whereabouts of the villagers.{nl}I want you to check A, B and C districts.	마을에 무슨 일이 있었는지 확인해 마을 사람들의 행방을 찾아보죠.{nl}당신은 a지역하고 b지역, c지역을 확인해주세요. 	로제
-QUEST_UNUSED_20151112_002104	I'll have a look in other places.	
+QUEST_UNUSED_20151112_002104	ああ、私を心配してくれたんですね。{nl}本当にありがとうございます。幸い、魔族にはまだ気付かれていないみたいですね。{nl}私は他の場所を確認してみます。	
 전 다른 장소를 확인해볼게요.	로제
 QUEST_UNUSED_20151112_002105	Have you found any clues to to find the whereabouts of the villagers?	마을 사람들의 행방 쫓는데 도움이 될만한 단서를 발견하셨나요?	로제
 QUEST_UNUSED_20151112_002106	I've checked the footsteps of the demons in the village. I am sure the demons have intruded into the village. There are no corpses and the house looks normal so the demons are not planning to steal.	전 마을 안에서 마족의 발자국 같은걸 확인했어요. 아무래도 마족이 마을에 침입을 했어요. 사람 시체가 없고 집안의 멀쩡한 걸로 봐선 마족은 약탈이 목적이 아닌거 같아요.	로제
@@ -3216,4 +3216,9 @@ QUEST_UNUSED_20190117_003212	Klaipeda 	클라페다 	QUEST_UNUSED_20151223_00314
 QUEST_UNUSED_20190117_003213	Talk to 	마법협회 클라페다 지부 헤느리카	
 QUEST_UNUSED_20190117_003214	Henrika of Klaipeda's Magic Association	와 대화	
 QUEST_UNUSED_20190117_003215	You have enough monster samples.{nl} 	이 정도면 몬스터의 표본을 충분히 수집한 것 같습니다.{nl}클라페다 	QUEST_UNUSED_20151223_003143	You have collected enough monster samples. Bring them to the Stone of Requests.	이 정도면 몬스터의 표본을 충분히 수집한 것 같습니다. 의뢰석에 가져가세요.	
-QUEST_UNUSED_20190117_003216	 Return to the NPC.	 NPC에게 돌아가세요.	
+QUEST_UNUSED_20190117_003216	Return to the NPC.	 NPC에게 돌아가세요.	
+QUEST_UNUSED_20220614_003217	I'm worried she may have already got to Delmore Rephaim.{nl}Let's go down and find her.{nl}{nl}	델무어 르바임과 마주쳤을까봐 걱정이군요. {nl}아래쪽으로 가서 빠르게 합류하죠.{nl}{nl}	QUEST_LV_0100_20151223_012694	デルムーアと遭遇しているのではないかと心配で…。{nl}私たちも南の方へ行って合流することにしましょう。{nl}{nl}	델무어 르바인과 마주쳤을까봐 걱정이군요. {nl}아래쪽으로 가서 빠르게 합류하죠.{nl}{nl}	계시자 미하일
+QUEST_UNUSED_20220614_003218	Enter the Convent Scriptorium mission.{nl}Hunt the monsters at the Convent Scriptorium and retrieve the plundered convent records	수녀원 기록실 미션에 참가하세요{nl}수녀원 기록실의 몬스터를 처치하고 약탈당한 수녀원 기록물을 회수하세요	
+QUEST_UNUSED_20220614_003219	Hunt Rafene by entering the Lake Mission and obtain the Lake Rafene Claw	호수 미션에 참가하여 라페네를 처치 후 호수 라페네의 손톱을 획득하세요	
+QUEST_UNUSED_20221117_003220	It was very difficult for us, as monsters kept destroying the Stone of Requests,{nl}but thankfully you helped.{nl}The samples you have brought will be carefully studied by the Magic Association.	위험지역이라 매번 몬스터가 의뢰석을 부숴버려서{nl}새로 만드는 게 부담이었는데 이렇게 도와주시는 분들이 계셔서 보람이 있네요.{nl}모아주신 몬스터 표본은 연구에 소중히 사용할게요.	QUEST_UNUSED_20190117_003211	It was very difficult for us, as monsters kept destroying the Stone of Requests, but thankfully you helped.{nl}The samples you have brought will be carefully studied by the Magic Association.{nl}Thank you.	위험지역이라 매번 몬스터가 의뢰석을 부숴버려서 새로 만드는 게 부담이었는데 이렇게 도와주시는 분들이 계셔서 보람이 있네요.{nl}모아주신 몬스터 표본은 연구에 소중히 사용할게요.{nl}정말 감사드려요.	헤느리카
+QUEST_UNUSED_20221117_003221	Thank you very much.	정말 감사드려요.	헤느리카

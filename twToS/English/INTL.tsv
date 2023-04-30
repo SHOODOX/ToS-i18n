@@ -1,4 +1,4 @@
-INTL_20180327_000001	+1 extra instance entry for missions and dungeons	인던,미션 1회 추가입장	
+﻿INTL_20180327_000001	+1 extra instance entry for missions and dungeons	인던,미션 1회 추가입장	
 INTL_20180327_000002	活動	이벤트	
 INTL_20180327_000003	完美的翻譯家	완벽한 번역가	
 INTL_20180327_000004	為了支援完美翻譯的玩家所準備的稱號。	완변한 번역을 지원해준 유저를 위해 주어지는 칭호입니다.	
@@ -378,7 +378,7 @@ INTL_20180327_000377	Contains 10 Enchant Scrolls. Right-click to use.	사용 시
 INTL_20180327_000378	10x Megaphone Box	확성기 10개 상자	
 INTL_20180327_000379	Contains 10 Megaphones. Right-click to use.	사용 시 확성기 10개를 획득합니다. 마우스 우클릭으로 사용합니다.	
 INTL_20180327_000380	年終回饋禮包	신규 시작 패키지	
-INTL_20180327_000381	點擊滑鼠右鍵即可開啟並獲得箱子內容物。{nl} - 高濃縮HP藥水 100個{nl} - 高濃縮SP藥水 100個{nl} - 大王蜜松糕 10個{nl}- 定居支援藥水 10個{nl}- 即時副本掃盪劵 [★] 5個{nl}- 技能重置藥水 1個{nl}- 屬性重置藥水 1個	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 고농축 HP포션 100개{nl} - 고농축 SP포션 100개{nl} - 대왕꿀송편 10개{nl}- 정착지원 포션 10개{nl}- 인스턴스 던전 소탕권 [★] 5개{nl}- 스킬 초기화 포션 1개{nl}- 스탯 초기화 포션 1개	
+INTL_20180327_000381	Right-click to obtain the following items:{nl} - 100x Highly Condensed HP Potion {nl} -  100x Highly Condensed SP Potion {nl}- 10x Honey Dumpling {nl}- 10x Settlement Support Potion{nl}- 5x Instanced Clear Voucher {img star_mark 20 20}{nl} - 1x Skill Reset Potion{nl}- 1x Stat Reset Potion	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 고농축 HP포션 100개{nl} - 고농축 SP포션 100개{nl} - 대왕꿀송편 10개{nl}- 정착지원 포션 10개{nl}- 인스턴스 던전 소탕권 [★] 5개{nl}- 스킬 초기화 포션 1개{nl}- 스탯 초기화 포션 1개	
 INTL_20180327_000382	技能重置藥水	스킬 초기화 포션	
 INTL_20180327_000383	重置使用的技能點數。	사용한 스킬 포인트를 초기화 합니다.	
 INTL_20180327_000384	屬性重置藥水	스탯 초기화 포션	

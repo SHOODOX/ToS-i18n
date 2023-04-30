@@ -1,4 +1,4 @@
-QUEST_20180327_000001	Please select the user requiring a quest update.	퀘스트 수정이 필요한 유저를 선택해주세요.	GM
+﻿QUEST_20180327_000001	Please select the user requiring a quest update.	퀘스트 수정이 필요한 유저를 선택해주세요.	GM
 QUEST_20180327_000002	Statue of Goddess Vakarine	여신 바카리네의 상	
 QUEST_20180327_000003	Please select a territory.	지역을 선택해주세요.	여신 바카리네의 상
 QUEST_20180327_000004	Select	선택	
@@ -7366,7 +7366,7 @@ QUEST_20180412_007364	어려운 명령이었지만, 오세아니드 2항사는 �
 QUEST_20180412_007365	아무도 없자 하이레이번이 혼잣말로 중얼거렸다.{nl}[그에라 녀석, 이 일로 나를 찾아 바다로 나오면 블라디슬로바스 이후 오랜 만에 괜찮은 상대와 싸워볼 수 있겠군.	하이레이번의 비공식 항해일지2
 QUEST_20180412_007366	만약 그런 일이 생긴다면 이번에는 칼로만 상대해주지.흐음 그러고 보니 크리크가 그에라의 경쟁 상대라는데 크리크란 녀석과 싸울 일이 생긴다면 그것도 재미있겠군.그렇다면 크리크에게는 블라디슬로바스에게 한 것처럼 머리에 총알 구멍을 내주면 좋겠군. 그 녀석 총도 잘 쓴다니 말이야.]	하이레이번의 비공식 항해일지2
 QUEST_20180412_007367	그 말을 마치고 하이레이번은 이제 막 수평선 아래로 사라지는 케도라 상단의 배를 일별하고는 선장실로 걸음을 옮겼다.	하이레이번의 비공식 항해일지2
-QUEST_20180412_007368	모링포니아 대사	
+QUEST_20180412_007368	황금노래단 일지 참전	
 QUEST_20180412_007369	Golden Note - War Journal Vol.1	황금노래단 일지 참전
 QUEST_20180412_007370	Golden Note - War Journal Vol.1	황금노래단 일지 참전
 QUEST_20180412_007371	Golden Note - War Journal Vol.1	황금노래단 일지 참전
@@ -7391,7 +7391,7 @@ QUEST_20180412_007389	Golden Note - War Journal Vol.1	황금노래단 일지 참
 QUEST_20180412_007390	Golden Note - War Journal Vol.1	황금노래단 일지 참전
 QUEST_20180412_007391	Golden Note - War Journal Vol.1	황금노래단 일지 참전
 QUEST_20180412_007392	Golden Note - War Journal Vol.1	황금노래단 일지 참전
-QUEST_20180412_007393	모링포니아 대사	
+QUEST_20180412_007393	황금노래단 일지 종전	
 QUEST_20180412_007394	Golden Note - War Journal Vol. 2	황금노래단 일지 종전
 QUEST_20180412_007395	Golden Note - War Journal Vol. 2	황금노래단 일지 종전
 QUEST_20180412_007396	Golden Note - War Journal Vol. 2	황금노래단 일지 종전
@@ -7541,7 +7541,7 @@ QUEST_20180412_007539	#N/A	투기장의 주인 2
 QUEST_20180412_007540	#N/A	투기장의 주인 2
 QUEST_20180412_007541	#N/A	투기장의 주인 2
 QUEST_20180412_007542	#N/A	투기장의 주인 2
-QUEST_20180412_007543	모링포니아 대사	
+QUEST_20180412_007543	왕국문헌_폴라니 영지1	
 QUEST_20180412_007544	#N/A	왕국문헌_폴라니 영지1
 QUEST_20180412_007545	#N/A	왕국문헌_폴라니 영지1
 QUEST_20180412_007546	#N/A	왕국문헌_폴라니 영지1
@@ -7598,7 +7598,7 @@ QUEST_20180412_007596	#N/A	왕국문헌_폴라니 영지1
 QUEST_20180412_007597	#N/A	왕국문헌_폴라니 영지1
 QUEST_20180412_007598	#N/A	왕국문헌_폴라니 영지1
 QUEST_20180412_007599	#N/A	왕국문헌_폴라니 영지1
-QUEST_20180412_007600	모링포니아 대사	
+QUEST_20180412_007600	왕국문헌_폴라니 영지2	
 QUEST_20180412_007601	#N/A	왕국문헌_폴라니 영지2
 QUEST_20180412_007602	#N/A	왕국문헌_폴라니 영지2
 QUEST_20180412_007603	#N/A	왕국문헌_폴라니 영지2
@@ -9642,7 +9642,7 @@ QUEST_20190521_009642	Are you sure you want to use {#FF0000}Dark Energy{/}?{nl}T
 QUEST_20190521_009643	Bonus Gift Helper	특별한 선물 이벤트 도우미	
 QUEST_20190521_009644	Log-in to Tree of Savior over the weekends during the event period to receive your special gift.	이벤트 기간 주말에 접속 하시면, 특별한 선물을 획득할 수 있습니다.	특별한 선물 이벤트 도우미
 QUEST_20190619_009646	Chupacabra Adoption Agent	츄파카브라 분양 도우미	
-QUEST_20190619_009647	活動期間領養卓柏卡布拉，和牠一起冒險，令牠成長，可以獲得各種獎勵。	이벤트 기간, 츄파카브라를 분양받아, 함께 모험하고, 성장 시키며, 다양한 보상을 획득하세요.	츄파카브라 분양 도우미
+QUEST_20190619_009647	Adopt a Chupacabra during the event period to take along in your adventures. Grow them to receive a special reward.	이벤트 기간, 츄파카브라를 분양받아, 함께 모험하고, 성장 시키며, 다양한 보상을 획득하세요.	츄파카브라 분양 도우미
 QUEST_20190715_009648	You're here.{nl}The giant monster already ate the tranquilizer bait and is knocked out now.{nl}I'm going to attack it and try to create a diversion.	오셨군요.{nl}거대 몬스터는 지금 수면제가 든 미끼를 먹고 자고 있습니다.{nl} 우선, 제가 녀석을 공격하여 시선을 끌도록 하겠습니다.	QUEST_20190513_009371	You're here. The giant monster already ate the tranquilizer bait and is knocked out now.{nl}I'm going to attack it and try to create a diversion.	오셨군요. 거대 몬스터는 지금 수면제가 든 미끼를 먹고 자고 있습니다.{nl} 우선, 제가 녀석을 공격하여 시선을 끌도록 하겠습니다.	레이커 리더
 QUEST_20190715_009649	Uhh... I'm sorry, Revelator.{nl}I didn't mean to let it get away... I just froze, I didn't know what to do.	윽.. 죄송합니다. 계시자님.{nl}설마 녀석이 도망갈줄은.. 예상치 못한 상황에 냉정하게 행동하지 못했네요.	QUEST_20190513_009373	Uhh... I'm sorry, Revelator. I didn't mean to let it get away... I just froze, I didn't know what to do.{nl}But at least the poison seems to have worked. I could tell it was in pain after it attacked me.{nl}But don't worry about me, go find the monster and defeat it!	윽.. 죄송합니다. 계시자님. 설마 녀석이 도망갈줄은.. 예상치 못한 상황에 냉정하게 행동하지 못했네요.{nl}그래도 다행히 독은 통한듯합니다. 저를 공격한 직후 괴로워하더니 마무리를 하지 않고 도망갔습니다.{nl}저는 괜찮으니 어서 거대 몬스터를 쫓아 쓰러트려 주세요!	레이커 리더
 QUEST_20190715_009650	But at least the poison seems to have worked.{nl}I could tell it was in pain after it attacked me.{nl}But don't worry about me, go find the monster and defeat it!	그래도 다행히 독은 통한듯합니다.{nl}저를 공격한 직후 괴로워하더니 마무리를 하지 않고 도망갔습니다.{nl}저는 괜찮으니 어서 거대 몬스터를 쫓아 쓰러트려 주세요!	레이커 리더
@@ -10511,14 +10511,14 @@ QUEST_20200521_010514	Lepidoptera Junction: Legend(Hard)(Recommended Lv: 440){nl
 QUEST_20200521_010515	You arrived unscathed.{nl}I am here to check the savior's condition before the final battle.	무사히 여기까지 오셨군요.{nl}마지막 결전에 앞서 계시자님의 상태를 살피기 위해 왔습니다.	크로노맨서 마스터
 QUEST_20200521_010516	The power of the Demon Lord is strengthening and the flow of the dimension is quite unusual.{nl}I believe there is another presence interfering with the area.{nl}Do you need anything from the things I prepared to help you in battle? {nl}{#FF0000}I recommend taking one at a time because the magic of the orb might clash.	마군주의 힘이 강력해지고 이공간의 흐름이 심상치가 않아요.{nl}아무래도 이공간에 간섭하고 있는 또 다른 존재가 있는 것 같습니다.{nl}계시자님의 전투에 도움이 되고자 준비한 것이 있는데 필요한 것이 있으신지요?{nl}{#FF0000}참고로, 사용 시 보주들의 마력이 서로 충돌할 우려가 있으니 한 가지씩만 가져가는 게 좋겠습니다.{/}	크로노맨서 마스터
 QUEST_20200521_010517	I understand.{nl}Please keep in mind that your safety is the most important matter.	알겠습니다.{nl}가장 중요한 건 계시자님의 안전이란 걸 꼭 명심하시길 바랍니다.	크로노맨서 마스터
-QUEST_20200521_010518	莫靈波尼亞台詞	모링포니아 대사	
+QUEST_20200521_010518	모링포니아 대사	모링포니아 대사	
 QUEST_20200521_010519	Tantalizer, I believe something strange is happening.	탄타이저, 아무래도 이상한 일이 벌어지고 있는 듯하구나.	모링포니아 대사
 QUEST_20200521_010520	Stand with me. Let's wipe out the humans. 	나와 함께 해라. 인간들을 모조리 쓸어버리자꾸나.	모링포니아 대사
 QUEST_20200521_010521	Petty Schaffenstars! You will be terminated here and now! 	하찮은 샤펜스타들! 여기서 흔적도 없이 사라지게 될 것이다!	모링포니아 대사
 QUEST_20200521_010522	Leave, Tantalizer! Their heads are MINE!	탄타이저 빠져라! 녀석들의 목숨은 반드시 내 것이다!	모링포니아 대사
 QUEST_20200521_010523	Good! I will finish them off.	이제 됐다! 내가 마무리하겠다.	모링포니아 대사
 QUEST_20200521_010524	Schaffenstar! I will not forget your faces! I WILL destroy every piece of this Wall!	샤펜스타! 네 놈들의 얼굴을 기억하겠다! 이 성벽을 모조리 파괴할 것이다!	모링포니아 대사
-QUEST_20200521_010525	坦達伊秋台詞	탄타이저 대사	
+QUEST_20200521_010525	탄타이저 대사	탄타이저 대사	
 QUEST_20200521_010526	I sense it as well. I'm afraid.. this isn't the dimension we're acquainted with.	나도 느낄 수 있다. 아무래도.. 여긴 우리가 알던 공간이 아닌 것 같군.	탄타이저 대사
 QUEST_20200521_010527	Humans are quite persistent..Moringponia! I will help.	인간들이 꽤 끈질기군.. 모링포니아! 내가 돕겠다.	탄타이저 대사
 QUEST_20200521_010528	It is frustrating to watch. Let's get this over with!	지켜만 보고 있자니 답답하군. 슬슬 끝장을 내자!	탄타이저 대사
@@ -10862,7 +10862,7 @@ QUEST_20201109_010865	/moonlight	/달빛
 QUEST_20201109_010866	Can be checked by UI via command.{nl}	 명령어를 통해 UI 에서 확인할 수 있습니다.{/}	[추석 이벤트] 보름달 토끼
 QUEST_20201109_010867	[Tip] 이벤트 안내{nl}[이벤트] 달맞이 주화는 다음 콘텐츠를 통해 획득할 수 있습니다.{nl}- {#003399}레벨던전{/}, {#003399}업힐 디펜스{/}, {#003399}대지의 탑{/}{nl}- {#003399}유니크레이드 : 캐주얼 및 레전드 레이드 : 캐주얼{/},{#003399} 유니크 및 레전드 레이드{/}{nl}- {#003399}챌린지 모드 5단계 이상{/}, {#003399}챌린지 모드 7단계{/}, {#003399}차원 붕괴지점 5단계 이상{/}{nl}- {#003399}챌린지 모드 : 분열 특이점 2단계 이상,챌린지 모드 : 분열 특이점 4단계 이상{/}{nl}- {#003399}자신의 레벨대 몬스터 처치 시 일정 확률로 획득{/}{nl}- 1인 레이드 보스 {#003399}마돈 메이드{/}, {#003399}어미스독{/}, {#003399}머즈루스{/},{#003399}텔하르샤 클리어{/}{nl}달맞이 주화 획득 현황은	[Tip] 이벤트 안내{nl}[이벤트] 달맞이 주화는 다음 콘텐츠를 통해 획득할 수 있습니다.{nl}- {#003399}레벨던전{/}, {#003399}업힐 디펜스{/}, {#003399}대지의 탑{/}{nl}- {#003399}유니크레이드 : 캐주얼 및 레전드 레이드 : 캐주얼{/},{#003399} 유니크 및 레전드 레이드{/}{nl}- {#003399}챌린지 모드 5단계 이상{/}, {#003399}챌린지 모드 7단계{/}, {#003399}차원 붕괴지점 5단계 이상{/}{nl}- {#003399}챌린지 모드 : 분열 특이점 2단계 이상,챌린지 모드 : 분열 특이점 4단계 이상{/}{nl}- {#003399}자신의 레벨대 몬스터 처치 시 일정 확률로 획득{/}{nl}- 1인 레이드 보스 {#003399}마돈 메이드{/}, {#003399}어미스독{/}, {#003399}머즈루스{/},{#003399}텔하르샤 클리어{/}{nl}달맞이 주화 획득 현황은 	[추석 이벤트] 보름달 토끼
 QUEST_20201109_010868	/fullmoon	/달맞이	
-QUEST_20201109_010869	Can be checked via command.	 명령어를 통해 확인하실 수 있습니다.	[추석 이벤트] 보름달 토끼
+QUEST_20201109_010869	 command.	 명령어를 통해 확인하실 수 있습니다.	[추석 이벤트] 보름달 토끼
 QUEST_20201109_010870	[Tip] 이벤트 안내{nl}매일 제공되는 버프와 선물은 달빛 포인트 획득에 다른 누적 포인트로 결정됩니다.{nl}달빛 포인트를 획득할 수 있는 방법은 다음과 같습니다.{nl}- [이벤트] 달맞이 주화 100개 획득시 마다 20p{nl}- 누적 접속 시간 1시간 마다 3p{nl}- 달에게 소원 빌기 1회 50p(팀당 일일 3회){nl}- [이벤트] 달맞이 송편 달에게 선물 하기 개당 1p (팀당 일일 교환 제한 100개){nl}{#ff0000}※포인트에 따른 버프 효과와 보상은 UI 에서 확인할 수 있습니다.{/}	[Tip] 이벤트 안내{nl}매일 제공되는 버프와 선물은 달빛 포인트 획득에 다른 누적 포인트로 결정됩니다.{nl}달빛 포인트를 획득할 수 있는 방법은 다음과 같습니다.{nl}- [이벤트] 달맞이 주화 100개 획득시 마다 20p{nl}- 누적 접속 시간 1시간 마다 3p{nl}- 달에게 소원 빌기 1회 50p(팀당 일일 3회){nl}- [이벤트] 달맞이 송편 달에게 선물 하기 개당 1p (팀당 일일 교환 제한 100개){nl}{#ff0000}※포인트에 따른 버프 효과와 보상은 UI 에서 확인할 수 있습니다.{/}	[추석 이벤트] 보름달 토끼
 QUEST_20201109_010871	[Tip] Event Details{nl} The [Event] Moon Rice Cake can be obtained from the following.{nl}- Dropped randomly by defeating monsters in the player's level range (Does not drop if the level gap is over 50, reset every 6 AM server time){nl}- Obtain randomly by opening [Full Moon] Full Moon Festival Random Box	[Tip] 이벤트 안내{nl}[이벤트] 달맞이 송편은 다음 방법을 통해 획득할 수 있습니다.{nl}- 자신의 레벨대 몬스터 사냥시 일정 확률로 획득(몬스터와 50레벨 이상 차이가 날 경우 획득 불가, 매일 오전 06시 초기화){nl}- [달맞이] 달맞이 대작전 랜덤 상자 개봉 시 일정 확률로 획득	[추석 이벤트] 보름달 토끼
 QUEST_20201109_010872	[Event] Full Moon	[추석 이벤트] 보름달	

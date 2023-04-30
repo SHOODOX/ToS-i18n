@@ -1,4 +1,4 @@
-QUEST_UNUSED_20150317_000001	A ha, you're on your way to see Master Pardoner. I wish you luck.	아하, 파드너 마스터에게로 가는 길이로군. 무운을 빕지요.	
+﻿QUEST_UNUSED_20150317_000001	A ha, you're on your way to see Master Pardoner. I wish you luck.	아하, 파드너 마스터에게로 가는 길이로군. 무운을 빕지요.	
 QUEST_UNUSED_20150317_000002	Note the long way Hashipusho.	먼 길 조심하십쇼.	
 QUEST_UNUSED_20150317_000003	So. Korezo. Pardoner does not allow you to introductory. Sound fall that silver was Like this donation was bought {nl} indulgences leads to our salvation. {nl} wealth also, that it be noted that it is a great blessing of goddess.	그래. 이거야. 파드너로 입문을 허락하지.{nl}면죄부를 산 은화 한 닢이 헌금함에 떨어지는 소리가 우릴 구원으로 이끌지.{nl}재물 또한 여신의 커다란 축복이라는 것을 명심하게.	
 QUEST_UNUSED_20150317_000004	Pardoner be viewed back to your master Te. {nl} if had the fire pot looking for a very long time.	어서 파드너 마스터께 돌아가 보게.{nl}그 불항아리를 아주 오랫동안 찾고 계셨거든.	
@@ -3217,3 +3217,8 @@ QUEST_UNUSED_20190117_003213	魔法协会柯拉佩达支部黑勒利卡	마법�
 QUEST_UNUSED_20190117_003214	，和他对话	와 대화	
 QUEST_UNUSED_20190117_003215	这程度，应该已经充份收集怪物的标本了。{nl}柯拉佩达	이 정도면 몬스터의 표본을 충분히 수집한 것 같습니다.{nl}클라페다 	QUEST_UNUSED_20151223_003143	这程度，应该已经充份收集怪物的标本了。请回去到委託石那吧。	이 정도면 몬스터의 표본을 충분히 수집한 것 같습니다. 의뢰석에 가져가세요.	
 QUEST_UNUSED_20190117_003216	请回去找 NPC。	 NPC에게 돌아가세요.	
+QUEST_UNUSED_20220614_003217	I'm worried she may have already got to Delmore Rephaim.{nl}Let's go down and find her.{nl}{nl}	델무어 르바임과 마주쳤을까봐 걱정이군요. {nl}아래쪽으로 가서 빠르게 합류하죠.{nl}{nl}	QUEST_LV_0100_20151223_012694	デルムーアと遭遇しているのではないかと心配で…。{nl}私たちも南の方へ行って合流することにしましょう。{nl}{nl}	델무어 르바인과 마주쳤을까봐 걱정이군요. {nl}아래쪽으로 가서 빠르게 합류하죠.{nl}{nl}	계시자 미하일
+QUEST_UNUSED_20220614_003218	Enter the Convent Scriptorium mission.{nl}Hunt the monsters at the Convent Scriptorium and retrieve the plundered convent records	수녀원 기록실 미션에 참가하세요{nl}수녀원 기록실의 몬스터를 처치하고 약탈당한 수녀원 기록물을 회수하세요	
+QUEST_UNUSED_20220614_003219	Hunt Rafene by entering the Lake Mission and obtain the Lake Rafene Claw	호수 미션에 참가하여 라페네를 처치 후 호수 라페네의 손톱을 획득하세요	
+QUEST_UNUSED_20221117_003220	这里是危险区域，由于怪物每次都会打碎委托石，做新的对我们来说是种负担，因为有您的大力帮忙，成效很好。{nl}我会好好研究您收集来的怪物标本。	위험지역이라 매번 몬스터가 의뢰석을 부숴버려서{nl}새로 만드는 게 부담이었는데 이렇게 도와주시는 분들이 계셔서 보람이 있네요.{nl}모아주신 몬스터 표본은 연구에 소중히 사용할게요.	QUEST_UNUSED_20190117_003211	这裡是危险区域，由于怪物每次都会打碎委託石，做新的对我们来说是种负担，有这样帮忙的人在，真是欣慰。{nl}我会好好使用你帮忙收集的怪物标本的。{nl}真是谢谢你。	위험지역이라 매번 몬스터가 의뢰석을 부숴버려서 새로 만드는 게 부담이었는데 이렇게 도와주시는 분들이 계셔서 보람이 있네요.{nl}모아주신 몬스터 표본은 연구에 소중히 사용할게요.{nl}정말 감사드려요.	헤느리카
+QUEST_UNUSED_20221117_003221	真的很谢谢你。	정말 감사드려요.	헤느리카
